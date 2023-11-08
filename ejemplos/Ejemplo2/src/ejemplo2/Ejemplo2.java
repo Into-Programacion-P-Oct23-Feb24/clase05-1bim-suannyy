@@ -31,7 +31,7 @@ public class Ejemplo2 {
         String apellido;
         System.out.println("Ingrese el nombre por favor");
         miNombre = entrada.nextLine();
-        System.out.println("Ingrese el apellido %s por favor");
+        System.out.println("Ingrese el apellido por favor");
         apellido = entrada.nextLine();
         System.out.println("Ingrese el promedio por favor");
         promedio = entrada.nextDouble();
